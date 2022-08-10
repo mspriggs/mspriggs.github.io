@@ -28,7 +28,8 @@ twitter_username: mspriggs
 github_username:  mspriggs
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 

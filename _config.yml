@@ -21,9 +21,9 @@
 title: Martin A. Spriggs
 email: martin@martinspriggs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  "In all these things we are more than conquerors through him who loved us." (Romans 8:37)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.martinspriggs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://martinspriggs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mspriggs
 github_username:  mspriggs
 

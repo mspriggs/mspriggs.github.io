@@ -6,7 +6,7 @@ categories: vlogging
 ---
 #getting-into-vlogging
 
-![camera image top](https://wels.net/wp-content/uploads/2021/08/sony-zv-1-announces-a-tiny-vlogging-camera-based-on-the-rx10_dgbc.1920-300x169.jpg)
+[camera image top](https://wels.net/wp-content/uploads/2021/08/sony-zv-1-announces-a-tiny-vlogging-camera-based-on-the-rx10_dgbc.1920-300x169.jpg)
 Vlogging is the act of creating and adding content to a "vlog" or "video blog" (think YouTube). Vlogging a term often used by content creators on YouTube, or "YouTubers" when talking about their craft. The advent of good quality video cameras on phones, like the iPhone, has launched a generation of videographers eager to use the internet to get their message out there. At last count nearly 500 hours of video are uploaded to YouTube EVERY MINUTE!
 
 Just for fun, here are few more fun facts about YouTube:

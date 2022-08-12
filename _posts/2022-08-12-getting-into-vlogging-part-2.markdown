@@ -30,7 +30,7 @@ After using the product for a little while now, I'd note the following pluses an
 5. Can be used with most cameras and even smart phones with the write adapters.
 
 ##### Negatives:
-1. A little pricey. Currently about $300 on [Adorama](https://www.adorama.com/rdwigoii.html).
+1. A little pricey. Currently about $250 on [Adorama](https://www.adorama.com/rdwigoii.html).
 2. When clipping on a shirt collar it is very obvious, especially with the windscreen. It also has rather bright status lights on the front, making it even more obvious.
 3. Uses micro usb to charge. A small nit pick, but it would be nice it if had USB-C.
 

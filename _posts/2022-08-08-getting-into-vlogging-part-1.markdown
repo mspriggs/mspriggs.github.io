@@ -5,17 +5,17 @@ date:   2022-08-08 18:30:27 -0500
 categories: vlogging
 ---
 
-![camera image top](https://wels.net/wp-content/uploads/2021/08/sony-zv-1-announces-a-tiny-vlogging-camera-based-on-the-rx10_dgbc.1920-300x169.jpg){:style="float:left"}{:style="padding:0 0 20 20"}
+![camera image top](https://wels.net/wp-content/uploads/2021/08/sony-zv-1-announces-a-tiny-vlogging-camera-based-on-the-rx10_dgbc.1920-300x169.jpg){:style="padding:0 0 20 20"}{: .image-left }
 Vlogging is the act of creating and adding content to a "vlog" or "video blog" (think YouTube). Vlogging a term often used by content creators on YouTube, or "YouTubers" when talking about their craft. The advent of good quality video cameras on phones, like the iPhone, has launched a generation of videographers eager to use the internet to get their message out there. At last count nearly 500 hours of video are uploaded to YouTube EVERY MINUTE!
 
 Just for fun, here are few more fun facts about YouTube:
 
- 	- There are 2.3 billion YouTube users world-wide
- 	- 79% of all internet users say they have a YouTube account
- 	- YouTube viewers watch over 1 billion hours of video each day
- 	- 62% of US-based businesses use YouTube to post video content
- 	- 70% of YouTube views come on mobile devices
- 	- 90% of people say they discovered new products or brands on YouTube
+- There are 2.3 billion YouTube users world-wide
+- 79% of all internet users say they have a YouTube account
+- YouTube viewers watch over 1 billion hours of video each day
+- 62% of US-based businesses use YouTube to post video content
+- 70% of YouTube views come on mobile devices
+- 90% of people say they discovered new products or brands on YouTube
 	
 It is a compelling platform that millions use either to consume video or the subject of this blog post -- to create it.
 

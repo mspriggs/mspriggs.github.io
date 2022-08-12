@@ -4,7 +4,7 @@ title:  "Getting Into Vlogging Part 2: Microphones"
 categories: vlogging
 ---
 
-![microphone image](https://edge.rode.com/images/page/88/modules/417/rode-wigo2-insitu%201-interior-youtuber-jan-2021-1000x1000-rgb.jpg){:style="float:right; padding-left:20px"}
+![microphone image](https://edge.rode.com/images/page/88/modules/417/rode-wigo2-insitu%201-interior-youtuber-jan-2021-1000x1000-rgb.jpg){: width="300px" style="float:right; padding-left:20px"}
 
 In [Getting Into Vlogging Part 1 - The Camera](https://martinspriggs.com/vlogging/2022/08/08/getting-into-vlogging-part-1.html) of the series on vlogging I shared a recommendation for a camera: the [Sony ZV-1](https://www.amazon.com/Sony-Content-Creators-Vlogging-Microphone/dp/B08965JV8D). Obviously this is the centerpiece of any vlogging configuration. Getting good clear video is important. However, a great case could be made that the audio of a vlog is of equal importance...perhaps even more important. Viewers will quickly move on from a video they can't hear clearly. While the Sony ZV-1 has a good microphone, it will vary depending on conditions (wind, background noise, ventilation, etc.). The best way to insure the cleanest audio capture is through a dedicated microphone, and in the world of vlogging, that means a wireless microphone. The good news is there are a lot of excellent choices out there at various price points.
 ### Microphone Kit

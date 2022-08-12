@@ -26,9 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://martinspriggs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mspriggs
 github_username:  mspriggs
+youtube_username: MartinSpriggs1
+linkedin_username: martinspriggs
+
+author: Martin A. Spriggs
+
+copyright: "Martin A. Spriggs"
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

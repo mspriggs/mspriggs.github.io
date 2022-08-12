@@ -11,8 +11,8 @@ In [Getting Into Vlogging Part 1 - The Camera](https://martinspriggs.com/vloggin
 #### Goal
 To have a microphone setup that is easy to use, captures audio at the source (i.e. very close to the speakers mouth), and is wireless to allow disconnected movement. The battery life should be sufficient for at least an hour of uninterrupted use, send audio to the video source, but also record it as a standalone mp3 file.
 
-![rode mic image|200](https://edge.rode.com//images/page/88/modules/415/rode-wigo2-product-front-triple-reciever-transmitter-jan-2021-1000x1000-rgb.jpg)
 #### RODE Wireless Go II (my recommendation)
+![rode mic image|200](https://edge.rode.com//images/page/88/modules/415/rode-wigo2-product-front-triple-reciever-transmitter-jan-2021-1000x1000-rgb.jpg){: width="200px" style="float:left; padding-right:20px"}
 The [RODE Wireless Go II](https://rode.com/microphones/wireless/wirelessgoii_2) is a dual channel wireless microphone system. It comes with one receiver that can be attached to the hot/cold shoe mount on the Sony ZV-1, and two transmitters with wind screens which can be clipped to a shirt collar. It's key features (from their website) include:
 - Dual channel wireless microphone system for recording two sound sources simultaneously   
 - Series IV 2.4GHz digital transmission, 128-bit encryption – crystal-clear audio at up to 200m (line of sight), optimized for extremely stable operation in dense RF environments 
